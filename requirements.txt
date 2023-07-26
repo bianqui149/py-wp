@@ -38,7 +38,7 @@ GitPython==3.1.31
 hyperlink==21.0.0
 idna==3.4
 incremental==22.10.0
-ipykernel==6.23.2
+ipykernel==6.16.2
 ipython==8.14.0
 isoduration==20.11.0
 itemadapter==0.8.0
