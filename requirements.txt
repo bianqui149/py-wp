@@ -144,7 +144,7 @@ tinycss2==1.2.1
 tldextract==3.4.4
 tomli==2.0.1
 torch==1.13.1
-tornado==6.3.2
+tornado==6.2
 traitlets==5.9.0
 triton==2.0.0
 Twisted==22.10.0
